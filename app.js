@@ -4,8 +4,8 @@ const morgan = require("morgan");
 
 const server = jsonServer.create();
 
-const fs = require("fs");
-const db = JSON.parse(fs.readFileSync("./db.json"));
+const db = require("./db.json");
+
 const router = jsonServer.router(db);
 
 const middlewares = jsonServer.defaults();
