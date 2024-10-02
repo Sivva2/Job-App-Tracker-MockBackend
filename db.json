@@ -1,0 +1,114 @@
+{
+  "applications": [
+    {
+      "id": 1,
+      "company": "Google",
+      "jobTitle": "Software Engineer",
+      "description": "You will be part of the core team developing scalable cloud services for our global user base. The role involves coding, system design, and collaborating with cross-functional teams.",
+      "dateApplied": "2024-09-01",
+      "status": "Interview",
+      "contact": "recruiter@google.com",
+      "jobLink": "https://careers.google.com/jobs/12345",
+      "notes": "Completed technical interview. Waiting for response."
+    },
+    {
+      "id": 2,
+      "company": "Amazon",
+      "jobTitle": "Front-End Developer",
+      "description": "Develop user-facing features for our e-commerce platform using React.js. You will work closely with designers to create high-performing web applications.",
+      "dateApplied": "2024-08-15",
+      "status": "Applied",
+      "contact": "hr@amazon.com",
+      "jobLink": "https://amazon.jobs/frontend-developer",
+      "notes": "Waiting for recruiter response."
+    },
+    {
+      "id": 3,
+      "company": "Microsoft",
+      "jobTitle": "Back-End Developer",
+      "description": "Build and maintain server-side logic, database schemas, and APIs for a cloud-based service. You'll be involved in scaling and optimizing our backend infrastructure.",
+      "dateApplied": "2024-09-10",
+      "status": "Phone Screen",
+      "contact": "careers@microsoft.com",
+      "jobLink": "https://microsoft.jobs/backend-developer",
+      "notes": "Phone screen scheduled for September 20."
+    },
+    {
+      "id": 4,
+      "company": "Facebook",
+      "jobTitle": "Data Scientist",
+      "description": "Analyze user data and develop machine learning models to improve user engagement and personalization. You'll collaborate with product teams to translate data insights into business strategies.",
+      "dateApplied": "2024-07-30",
+      "status": "Rejected",
+      "contact": "jobs@fb.com",
+      "jobLink": "https://fb.careers/data-scientist",
+      "notes": "Received feedback after final round interview. Position filled."
+    },
+    {
+      "id": 5,
+      "company": "Spotify",
+      "jobTitle": "Mobile Developer",
+      "description": "Contribute to building our next-gen mobile app on iOS and Android. You'll work on creating innovative features to enhance the streaming experience for millions of users.",
+      "dateApplied": "2024-09-05",
+      "status": "Interview",
+      "contact": "recruiter@spotify.com",
+      "jobLink": "https://spotify.jobs/mobile-developer",
+      "notes": "Onsite interview scheduled for October 1."
+    },
+    {
+      "id": 6,
+      "company": "Netflix",
+      "jobTitle": "DevOps Engineer",
+      "description": "Manage cloud infrastructure and improve CI/CD pipelines for our streaming platform. You will ensure system reliability, automate deployments, and monitor cloud performance.",
+      "dateApplied": "2024-08-25",
+      "status": "Applied",
+      "contact": "techrecruitment@netflix.com",
+      "jobLink": "https://jobs.netflix.com/devops-engineer",
+      "notes": "Application submitted, waiting for response."
+    },
+    {
+      "id": 7,
+      "company": "Tesla",
+      "jobTitle": "Full Stack Developer",
+      "description": "Work on developing and maintaining both front-end and back-end systems for Tesla’s internal tools. Your work will help streamline the production and delivery of vehicles.",
+      "dateApplied": "2024-08-20",
+      "status": "Interview",
+      "contact": "careers@tesla.com",
+      "jobLink": "https://tesla.jobs/full-stack-developer",
+      "notes": "Technical interview completed, awaiting next steps."
+    },
+    {
+      "id": 8,
+      "company": "Uber",
+      "jobTitle": "Product Manager",
+      "description": "Lead product development for Uber’s mobility team, focusing on user engagement and new feature rollouts. You will work with engineers and designers to define the product vision.",
+      "dateApplied": "2024-09-12",
+      "status": "Applied",
+      "contact": "pm-hiring@uber.com",
+      "jobLink": "https://uber.careers/product-manager",
+      "notes": "Followed up with recruiter."
+    },
+    {
+      "id": 9,
+      "company": "Salesforce",
+      "jobTitle": "Cloud Architect",
+      "description": "Design, plan, and manage scalable cloud solutions for Salesforce’s enterprise customers. This role involves high-level architecture design and collaborating with development teams.",
+      "dateApplied": "2024-09-03",
+      "status": "Phone Screen",
+      "contact": "recruitment@salesforce.com",
+      "jobLink": "https://careers.salesforce.com/cloud-architect",
+      "notes": "Phone interview scheduled for September 22."
+    },
+    {
+      "id": 10,
+      "company": "Stripe",
+      "jobTitle": "Security Engineer",
+      "description": "Ensure the security and integrity of Stripe’s payment systems. You will be responsible for designing security protocols and responding to potential threats.",
+      "dateApplied": "2024-09-15",
+      "status": "Interview",
+      "contact": "hiring@stripe.com",
+      "jobLink": "https://stripe.jobs/security-engineer",
+      "notes": "First round interview completed, awaiting feedback."
+    }
+  ]
+}
