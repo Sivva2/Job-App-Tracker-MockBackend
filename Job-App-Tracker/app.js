@@ -4,11 +4,9 @@ const morgan = require("morgan");
 
 const server = jsonServer.create();
 
-const dbData = require("./db.json");
-
 const fs = require("fs");
-const db = JSON.parse(fs.readFileSync("db.json"));
-const router = jsonServer.router(dbData);
+const db = JSON.parse(fs.readFileSync("./db.json"));
+const router = jsonServer.router(db);
 
 const middlewares = jsonServer.defaults();
 const PORT = process.env.PORT;
